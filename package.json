@@ -1,5 +1,5 @@
 {
-  "name": "App.Crawler_mangak",
+  "name": "truyentranhtuan-crawler",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,9 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bluebird": "^3.4.7",
-    "mongoose": "^4.7.8",
-    "request": "^2.79.0",
-    "request-promise": "^4.1.1"
+    "bluebird": "^3.7.2",
+    "mongoose": "^5.10.11",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
   }
 }
